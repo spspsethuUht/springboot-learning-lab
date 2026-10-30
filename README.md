@@ -1,16 +1,1 @@
-Spring Boot Learning Lab
-About
-This repository contains my Spring Boot learning programs.
-
-Concepts Covered
-Inversion of Control (IoC)
-Dependency Injection (DI)
-H2 Database
-Spring Data JPA
-Technology Stack
-Java 21
-Spring Boot
-Maven
-H2 Database
-Author
-Sethu
+<img width="1706" height="2268" alt="image" src="https://github.com/user-attachments/assets/9cbc4215-758e-4312-adc2-76f112d8a297" />
